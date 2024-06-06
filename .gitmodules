@@ -1,3 +1,0 @@
-[submodule "03-orchestration/mlops"]
-	path = 03-orchestration/mlops
-	url = https://github.com/username/mlops.git
