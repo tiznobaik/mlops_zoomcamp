@@ -1,0 +1,8 @@
+{
+  "portsAttributes": {
+    "5000": {
+      "label": "MLflow",
+      "onAutoForward": "notify"
+    }
+  }
+}
