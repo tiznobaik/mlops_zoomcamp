@@ -1,0 +1,3 @@
+[submodule "03-orchestration/mlop"]
+	path = 03-orchestration/mlop
+	url = https://github.com/tiznobaik/mlops_zoomcamp
